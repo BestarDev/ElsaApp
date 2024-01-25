@@ -1,0 +1,3 @@
+PDFSharp 1.50.5147
+Freeware.Pdf2Png 1.0.1
+Costura.Fody 5.7.0
